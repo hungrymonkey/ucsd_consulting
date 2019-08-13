@@ -6,7 +6,7 @@ This repo contains 4 files.
 
 final.py is the main file that contains all the proper data extraction.
 
-The three other files are just simple scripts made to help automate boring tasks.
+The three other files are just simple scripts made to help automate mundane tasks.
 
 
 I wish this paper existed much earlier. Arrggg
