@@ -9,6 +9,6 @@ final.py is the main file that contains all the proper data extraction.
 The three other files are just simple scripts made to help automate mundane tasks.
 
 
-I wish this paper existed much earlier. Arrggg
+I wish knew about this technique. 
 
 http://www.ijcaonline.org/research/volume132/number8/jameel-2015-ijca-907489.pdf
